@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ashesdb';
-  src:  url('fonts/ashesdb.eot?1fhmz6');
-  src:  url('fonts/ashesdb.eot?1fhmz6#iefix') format('embedded-opentype'),
-    url('fonts/ashesdb.ttf?1fhmz6') format('truetype'),
-    url('fonts/ashesdb.woff?1fhmz6') format('woff'),
-    url('fonts/ashesdb.svg?1fhmz6#ashesdb') format('svg');
+  src:  url('fonts/ashesdb.eot?vwwn0g');
+  src:  url('fonts/ashesdb.eot?vwwn0g#iefix') format('embedded-opentype'),
+    url('fonts/ashesdb.ttf?vwwn0g') format('truetype'),
+    url('fonts/ashesdb.woff?vwwn0g') format('woff'),
+    url('fonts/ashesdb.svg?vwwn0g#ashesdb') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,55 +24,55 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-sympathy-power:before {
-  content: "\e900";
-}
-.icon-sympathy-class:before {
-  content: "\e901";
+.icon-discard:before {
+  content: "\e906";
 }
 .icon-exhaustion:before {
   content: "\e902";
 }
-.icon-basic:before {
-  content: "\e903";
+.icon-main-action:before {
+  content: "\e905";
 }
 .icon-side-action:before {
   content: "\e904";
 }
-.icon-main-action:before {
-  content: "\e905";
-}
-.icon-discard:before {
-  content: "\e906";
-}
-.icon-natural-power:before {
-  content: "\e907";
-}
-.icon-natural-class:before {
-  content: "\e908";
-}
-.icon-ceremonial-power:before {
-  content: "\e909";
+.icon-basic:before {
+  content: "\e903";
 }
 .icon-ceremonial-class:before {
   content: "\e90a";
 }
-.icon-charm-power:before {
-  content: "\e90b";
+.icon-ceremonial-power:before {
+  content: "\e909";
 }
 .icon-charm-class:before {
   content: "\e90c";
 }
-.icon-illusion-power:before {
-  content: "\e90d";
-}
-.icon-illusion-class:before {
-  content: "\e90e";
+.icon-charm-power:before {
+  content: "\e90b";
 }
 .icon-divine-class:before {
   content: "\e90f";
 }
 .icon-divine-power:before {
   content: "\e910";
+}
+.icon-illusion-class:before {
+  content: "\e90e";
+}
+.icon-illusion-power:before {
+  content: "\e90d";
+}
+.icon-natural-class:before {
+  content: "\e908";
+}
+.icon-natural-power:before {
+  content: "\e907";
+}
+.icon-sympathy-class:before {
+  content: "\e901";
+}
+.icon-sympathy-power:before {
+  content: "\e900";
 }
 
